@@ -1,0 +1,12 @@
+.body {
+  color: black;
+  font-family: "Times New Roman", Times, serif;
+  min-height: auto;
+  margin: 50px 50px 50px 50px;
+}
+div h4 {
+  color: green;
+}
+div h3 {
+  color: blue;
+}
